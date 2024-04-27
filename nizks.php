@@ -14671,7 +14671,7 @@ bot("sendmessage",['chat_id'=>$chat_id,'text'=>"
 
  ⌯- لتنصيب سورس النيزك الجديد v2.0.0 ⇓⇓⇓ 
 
-`cd ; git clone https://github.com/kiindi/NiZk.git; cd NiZk ; chmod +x ins.py ; python3 ins.py`
+`cd ; git clone https://github.com/ameir73/NiZk.git; cd NiZk ; chmod +x ins.py ; python3 ins.py`
 
 ⌯- فقط أضغط على الكود ☝🏿 ليتم النسخ 
 ⌯- ثم الصقه بالترمنال وانتر تتنظر يتنصب...
